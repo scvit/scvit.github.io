@@ -1,1 +1,0 @@
-# scvit.github.io
